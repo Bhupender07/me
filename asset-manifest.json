@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/me/static/css/main.7d9f5952.chunk.css",
+    "main.js": "/me/static/js/main.6ff8761f.chunk.js",
+    "main.js.map": "/me/static/js/main.6ff8761f.chunk.js.map",
+    "runtime-main.js": "/me/static/js/runtime-main.ed683566.js",
+    "runtime-main.js.map": "/me/static/js/runtime-main.ed683566.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/me/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.91644ed7.chunk.js": "/me/static/js/2.91644ed7.chunk.js",
+    "static/js/2.91644ed7.chunk.js.map": "/me/static/js/2.91644ed7.chunk.js.map",
+    "static/js/3.97dee354.chunk.js": "/me/static/js/3.97dee354.chunk.js",
+    "static/js/3.97dee354.chunk.js.map": "/me/static/js/3.97dee354.chunk.js.map",
+    "index.html": "/me/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/me/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.7d9f5952.chunk.css.map": "/me/static/css/main.7d9f5952.chunk.css.map",
+    "static/js/2.91644ed7.chunk.js.LICENSE.txt": "/me/static/js/2.91644ed7.chunk.js.LICENSE.txt",
+    "static/media/BhupenderPareek.2dff35ac.png": "/me/static/media/BhupenderPareek.2dff35ac.png",
+    "static/media/Logo.ab4648e7.png": "/me/static/media/Logo.ab4648e7.png",
+    "static/media/Personal.739cee23.svg": "/me/static/media/Personal.739cee23.svg",
+    "static/media/Prof.27b56ae1.svg": "/me/static/media/Prof.27b56ae1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed683566.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.91644ed7.chunk.js",
+    "static/css/main.7d9f5952.chunk.css",
+    "static/js/main.6ff8761f.chunk.js"
+  ]
+}
