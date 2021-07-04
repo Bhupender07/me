@@ -17,6 +17,7 @@ function App() {
         <Route path="/personal" exact={true} component={PersonalInfo} />
         <Route path="/professional" exact={true} component={ProfessionalInfo} />
         <Route path="/" exact={true} component={JumbotronMain} />
+        <Route path="/me" exact={true} component={JumbotronMain} />
       </Switch>
     </div>
   );
